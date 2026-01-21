@@ -34,6 +34,4 @@ To get the backend running, follow these steps:
 1. **Install Node.js**
    Install the latest version of **[Node.js](https://nodejs.org/en/download/current/)**.
 
-2. **Clone the Repo**
-   ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+enjoy skidd
